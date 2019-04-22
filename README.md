@@ -10,4 +10,4 @@ Using Javascript it will then generate a random number within the range selected
 
 - Create the random number Function using Javascript
 
-Live demo can be viewed here
+Live demo can be viewed here [Demo](https://dandupreez.github.io/Random-Number-Generator/)
